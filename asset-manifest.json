@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/googlebooks-homework-21/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/googlebooks-homework-21/static/js/main.ff91075a.chunk.js",
+    "main.js.map": "/googlebooks-homework-21/static/js/main.ff91075a.chunk.js.map",
+    "runtime-main.js": "/googlebooks-homework-21/static/js/runtime-main.c2486235.js",
+    "runtime-main.js.map": "/googlebooks-homework-21/static/js/runtime-main.c2486235.js.map",
+    "static/js/2.f5a7a991.chunk.js": "/googlebooks-homework-21/static/js/2.f5a7a991.chunk.js",
+    "static/js/2.f5a7a991.chunk.js.map": "/googlebooks-homework-21/static/js/2.f5a7a991.chunk.js.map",
+    "static/js/3.e480e432.chunk.js": "/googlebooks-homework-21/static/js/3.e480e432.chunk.js",
+    "static/js/3.e480e432.chunk.js.map": "/googlebooks-homework-21/static/js/3.e480e432.chunk.js.map",
+    "index.html": "/googlebooks-homework-21/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/googlebooks-homework-21/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.f5a7a991.chunk.js.LICENSE.txt": "/googlebooks-homework-21/static/js/2.f5a7a991.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/googlebooks-homework-21/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2486235.js",
+    "static/js/2.f5a7a991.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.ff91075a.chunk.js"
+  ]
+}
